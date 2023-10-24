@@ -17,8 +17,11 @@ FactoryInsight is a web-based application that seamlessly integrates frontend an
 ## Technologies Used
 
 ### Frontend
+![Framework - Vue.js](https://img.shields.io/badge/Framework-Vue.js-2ea44f) ![Library - Vue Router](https://img.shields.io/badge/Library-Vue_Router-2ea44f) ![Library - Vuex](https://img.shields.io/badge/Library-Vuex-2ea44f) [![Library - AG Grid](https://img.shields.io/badge/Library-AG_Grid-4599ff)](https://) [![Framework - Vuetify](https://img.shields.io/badge/Framework-Vuetify-4599ff)](https://)
+
 - **Vue**: FactoryInsight harnesses the power of Vue.js, a progressive JavaScript framework, to create a responsive and dynamic user interface. Vue's component-based architecture simplifies the development process and ensures a smooth user experience.
 - **Vuex**: For state management, Vuex is employed, enabling the application to efficiently manage and share data between components. This ensures consistency and synchronization in the application's state.
+- **Vue Router**: To facilitate frontend page navigation and create a seamless user experience, we employ Vue Router, a powerful routing library for Vue.js.
 - **Axios**: Axios is utilized for making HTTP requests to the backend. It provides a simple and intuitive way to handle asynchronous operations and communicate with the server.
 - **AG Grid Vue**: This advanced data grid component is integrated to display factory part records in a tabular format. It offers powerful data manipulation and filtering features for an enhanced user experience.
 - **Vue Multiselect**: For intuitive and efficient filtering and selection of data, FactoryInsight uses vue multiselect. Users can easily choose from a range of options to refine their search criteria.
@@ -26,6 +29,8 @@ FactoryInsight is a web-based application that seamlessly integrates frontend an
 - **V-viewer**: To enable users to view and analyze analysis images, v-viewer is integrated. It allows users to click on images for zoomed-in, detailed inspection.
 
 ### Backend
+![Framework - Laravel](https://img.shields.io/badge/Framework-Laravel-eb4034) ![Database - MySQL](https://img.shields.io/badge/Database-MySQL-346beb) [![Storage - MinIO](https://img.shields.io/badge/Storage-MinIO-ff7391)](https://)
+
 - **Laravel**: FactoryInsight's backend is built on the Laravel PHP framework, known for its robustness and ease of use. Laravel provides the necessary structure for handling API requests, data management, and user authentication.
 - **MySQL**: MySQL is the database management system of choice, housing the factory part records. It ensures data integrity, reliability, and efficient retrieval of information.
 - **MinIO**: MinIO, a high-performance object storage server, is seamlessly integrated into FactoryInsight. It serves as the repository for analysis images, allowing for easy storage and retrieval of visual data.
