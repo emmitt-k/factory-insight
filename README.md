@@ -39,21 +39,31 @@ FactoryInsight is a web-based application that seamlessly integrates frontend an
 
 FactoryInsight is equipped with a wide array of features that cater to the needs of users seeking efficient access to factory part records and their associated analysis images. The main features include:
 
+<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Factory+Insight/5.jpg" width="400">
+
 1. **Database Connectivity**: Connects seamlessly to a MySQL database containing factory part records, allowing users to access a wealth of data effortlessly.
 
 2. **Image Storage Integration**: Links to MinIO storage, housing analysis images for each factory part, making it easy to view and analyze visual data alongside records.
 
 3. **Flexible Search**: Provides users with the ability to search factory part records based on various parameters, such as reference number, product name, failure code, and time range. This flexibility ensures that users can quickly locate the information they need.
 
-4. **Comprehensive Search Results**: Upon conducting a search, FactoryInsight displays a user-friendly results page, featuring the number of records found, a breakdown of failure code counts, detailed attributes for each record, and quick access to analysis images of failed product parts. These images can be clicked on to zoom in and view in full detail.
+<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Factory+Insight/1.jpg" width="400">
 
-5. **Image Export**: Allows users to export analysis images from the search results into a convenient zip file, streamlining the process of sharing visual data.
+5. **Comprehensive Search Results**: Upon conducting a search, FactoryInsight displays a user-friendly results page, featuring the number of records found, a breakdown of failure code counts, detailed attributes for each record, and quick access to analysis images of failed product parts. These images can be clicked on to zoom in and view in full detail.
 
-6. **Data Export**: Permits the export of search result attribute data in CSV format, making it easy to perform further analysis or share information with others.
+<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Factory+Insight/2.jpg" width="400">
 
-7. **Shareable URLs**: Provides a feature to generate shareable URLs for search results, enabling quick and efficient sharing of specific data with team members or colleagues.
+7. **Image Export**: Allows users to export analysis images from the search results into a convenient zip file, streamlining the process of sharing visual data.
 
-8. **View Modes**: Offers two distinct view modes for the search result page. Users can choose between an attribute+image mode, which displays both detailed attributes and analysis images, and an attributes table mode, which focuses solely on the tabulated attributes for quick reference.
+<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Factory+Insight/3.jpg" width="400">
+
+9. **Data Export**: Permits the export of search result attribute data in CSV format, making it easy to perform further analysis or share information with others.
+
+10. **Shareable URLs**: Provides a feature to generate shareable URLs for search results, enabling quick and efficient sharing of specific data with team members or colleagues.
+
+<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Factory+Insight/4.jpg" width="400">
+
+12. **View Modes**: Offers two distinct view modes for the search result page. Users can choose between an attribute+image mode, which displays both detailed attributes and analysis images, and an attributes table mode, which focuses solely on the tabulated attributes for quick reference.
 
 ## License
 
